@@ -52,7 +52,7 @@ With Logto, you get:
 Pick your path:
 
 - [**Logto Cloud**](https://cloud.logto.io/?sign_up=true&ref=readme): The fastest way to try Logto. Fully managed, zero setup.
-- [**Launch Logto in GitPod**](https://gitpod.io/#https://github.com/logto-io/demo): Start Logto OSS in seconds.
+- [**Launch Logto in GitPod**](https://gitpod.io/#https://github.com/opai-cn/demo): Start Logto OSS in seconds.
 
   Wait for the message `App is running at https://3002-...gitpod.io`, then click the URL starting with `https://3002-` to continue.
 
